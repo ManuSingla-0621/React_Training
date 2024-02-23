@@ -1,0 +1,28 @@
+[
+    {
+       "id":1,
+       "name":"iPhone9",
+       "price":70000,
+       "imageUrl":"https://cdn.dummyjson.com/product-images/1/1.jpg"
+    }
+    ,
+    {
+        "id":2,
+        "name":"iPhone X",
+        "price":80000,
+        "imageUrl":"https://cdn.dummyjson.com/product-images/2/1.jpg"
+    }
+    ,
+    {
+          "id":3,
+          "name":"Samsung Universe 9",
+          "price":200000,
+          "imageUrl":"https://cdn.dummyjson.com/product-images/3/1.jpg"
+    },
+    {
+           "id":4,
+           "name":"OPPOF19",
+           "price":20000,
+           "imageUrl":"https://cdn.dummyjson.com/product-images/4/1.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../BigOhJavascript"
+		},
+		{
+			"path": "../PythonWork"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BigOhJavascript"
+	}
+}
